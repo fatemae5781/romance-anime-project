@@ -4,10 +4,10 @@ Jessica is crossing the street and huge truck is speeding and is about to run he
 
 (This is not a bug if you were already here that means you picked the wrong choice and now have to restart, choose wisely)
 
-[Try to save her but fail](both-coma.md)
+[Try to save her but fail](situations/both-coma.md)
 
-[Save her](run-away.md)
+[Save her](situations/run-away.md)
 
-[Do not save her](jessica-coma.md)
+[Do not save her](situations/jessica-coma.md)
 
 
