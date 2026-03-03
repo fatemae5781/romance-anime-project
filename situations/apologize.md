@@ -1,6 +1,6 @@
 # Came back and apologized
 
-Fuji doesn't give up just yet and is really determined in creating some kind of relationship with her and she seems to be budging and looks like she might accept your apologies, but you feel really desperate, will you move on and keep trying?
+Fuji remains persistent, determined to build some kind of connection with her. She seems to be softening and might accept his apologies, but he is feeling increasingly desperate. Will he continue to push and try to win her over, or decide to move on and accept the situation?
 
 [Move on and never talk to her again](over.md)
 

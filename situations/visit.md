@@ -1,6 +1,6 @@
 # Visits her
 
-Fuji feels really guilty about what happened to her and wants to make it up somehow but she gets mad and kicks you out sicne she can't believe that everyone that was done to her could have been prevented and is in a state of shock. Should fuji give up or keep coming back and apologize.
+Fuji feels intense guilt over what happened to her and genuinely wants to make amends. However she becomes overwhelmed with anger and shock leading her to push him away and ask him to leave, unable to believe that what was done to her could have been prevented. Should Fuji give up on trying to make things right or keep returning to apologize and try to reconcile with her?
 
 [Give up](../home.md)
 
