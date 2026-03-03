@@ -1,7 +1,7 @@
 # Exchange numbers
 
-You started chatting and soon, you couldn’t stop thinking about Jessica. The more you talked, the deeper the feelings grew. Now, you are ready to tell her the truth about how much she means to you. Are you going to send the confession text or not?
+Jessica and Fuji started chatting and soon, he couldn’t stop thinking about Jessica. The more they talked, the deeper the feelings grew. Now, Fuji is thinking about telling her the truth about how much she means to him. He is hesitant. Is he going to muster the courage to send the confession text or not?
 
-[You send the text](lovers.md)
+[Send the text](lovers.md)
 
-[You do not send the text](stay-friends.md)
+[Do not send the text](stay-friends.md)
